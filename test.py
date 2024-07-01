@@ -1,0 +1,1 @@
+print("Hugo är snygg")
